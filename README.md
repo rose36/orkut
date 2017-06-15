@@ -1,2 +1,2 @@
 # orkut
-Trabalho de Web
+Aplicação Web para controle de uma rede social semelhante ao finado ORKUT.
